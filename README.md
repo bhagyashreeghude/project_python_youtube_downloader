@@ -1,6 +1,4 @@
-# project_python_youtube_downloader
-youtube downloader
-# YouTube Video Downloader
+# YouTube Video Downloader(using Pthon-pytube)
 
 The YouTube Video Downloader is a Python script that allows you to download videos from YouTube by providing a video URL. It utilizes the `pytube` library to fetch and download the video content.
 
